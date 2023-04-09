@@ -1,8 +1,12 @@
 body {
   margin: 0;
+  background-image: url("https://www.esri.com/about/newsroom/wp-content/uploads/2021/06/wherenext-where-in-the-world-Is-crypto-used-wide-1920x1080-1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
+    color: rgb(156, 156, 238);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
