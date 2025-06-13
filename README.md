@@ -1,6 +1,26 @@
-A web application that allows users to convert exchange rates of cryptocurrencies with a simple and user-friendly layout. 
+# 💱 Cryptocurrency Converter
 
-Technology - ReactJS
+A simple and responsive React app that converts one cryptocurrency to another using real-time exchange rates. Built using **React**, **Ant Design**, and **Fetch API**.
+
+---
+
+## 🚀 Features
+
+* Convert any cryptocurrency to another
+* Real-time exchange rates
+* Instantly displays converted values
+* Clean and modern UI with Ant Design components
+
+---
+
+## 🧠 Tools and Technology
+
+* React Hooks (`useState`, `useEffect`)
+* Fetching API data and rendering dynamically
+* Ant Design components for building forms and inputs
+* Using `.map()` and other array methods
+* Working with asynchronous data in React
+
 
 link - https://elaborate-truffle-398651.netlify.app/
 
