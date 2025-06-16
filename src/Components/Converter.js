@@ -44,7 +44,7 @@ function Converter() {
                 return item.value === secondSelect
             }).rate
 
-            const resultValue = (inputValue * firstSelectRate) / secondSelectRate
+            const resultValue = (inputValue * secondSelectRate) / firstSelectRate
             setResult(resultValue)
         }
         catch (e) {
